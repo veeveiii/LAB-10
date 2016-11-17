@@ -80,3 +80,9 @@
 ### [System.Drawing Namespace](https://msdn.microsoft.com/en-us/library/system.drawing(v=vs.110).aspx)
 ### [GDI+ .NET Color & HatchStyle Chart](https://drewnoakes.com/snippets/GdiColorChart/)
 
+<hr>
+<hr>
+Ailada Samingkaew 57030249 
+<hr>
+<hr>
+
